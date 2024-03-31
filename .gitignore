@@ -1,0 +1,39 @@
+# Файлы сборки и компиляции
+/target/
+
+# Удаленные конфигурационные файлы Cargo (когда используется cargo vendor)
+/.cargo/
+
+# Файлы резервных копий, создаваемые некоторыми текстовыми редакторами
+*~
+*.swp
+*.swo
+*.swp
+*.bak
+*.tmp
+
+# Файлы, создаваемые IDE или редакторами кода
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Системные файлы MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы архивов и логов
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.db
+
+# Файлы системы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
